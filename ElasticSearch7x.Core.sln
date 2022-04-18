@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElasticSearch7x.Core", "src\ElasticSearch7x.Core\ElasticSearch7x.Core.csproj", "{A795D7DE-647C-409F-BD13-0FF46517FEE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{844B4CAC-AD35-4127-9C10-77A5011691C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A795D7DE-647C-409F-BD13-0FF46517FEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A795D7DE-647C-409F-BD13-0FF46517FEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A795D7DE-647C-409F-BD13-0FF46517FEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A795D7DE-647C-409F-BD13-0FF46517FEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A795D7DE-647C-409F-BD13-0FF46517FEE4} = {844B4CAC-AD35-4127-9C10-77A5011691C3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0555E88-7BBB-45FB-9333-36AB735E9A00}
+	EndGlobalSection
+EndGlobal
